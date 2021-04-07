@@ -9,3 +9,5 @@ ability to play together on one machine or play vs bot will be added
 online gameplay will be added: you will connect to server to play with bot or with other online player, if he/she exists
 ### In 4.0
 bot will request GPT-2/3 to find better move
+
+### GUI also will be added in future
